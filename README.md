@@ -1,6 +1,6 @@
 # OpenWrt golang latest version
 
-## How to use?
+## How to use Use golang 23.x?
 
 ```shell
 rm -rf feeds/packages/lang/golang
